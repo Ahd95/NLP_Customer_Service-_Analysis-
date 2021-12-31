@@ -14,7 +14,7 @@ Text|Tweet content|object
 In reply to screen name|represented Tweet is a reply|object
 User Description|User bio in Twitter |object
 Source |Source of tweet |object
-Language |Included / language of tweet |object
+Language | language of tweet |object
 
 ### Tools:
 * Libraries : Pandas , NumPy , Matplotlib ,seaborn ,Scikit-learn , NTLK ,  ISRIStemmer .
