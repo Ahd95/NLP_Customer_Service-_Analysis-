@@ -5,6 +5,8 @@
 
 Analysis of most common customer service challenges encountered by telecummunication company through Natural language processing, and unsupervised machine learning algorithm.
 
+### Data Source:
+The data was scraped from the official STC-CARE Twitter account.
 ### Data Description:
 |Features |Descriotion|Type
 |:-------:|:-------------:|:-------:|
