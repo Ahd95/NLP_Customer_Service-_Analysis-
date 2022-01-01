@@ -1,7 +1,7 @@
 ## Natural Language Processing - Customer Service Analysis 
 
 
-###Introduction:
+### Introduction:
 
 Analysis of most common customer service challenges encountered by telecommunication company through Natural language processing, and unsupervised machine learning algorithm.
 
