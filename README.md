@@ -3,12 +3,12 @@
 
 ### Business Problem:
 
-Analysis of most common customer service challenges encountered by telecummunication company through Natural language processing, and unsupervised machine learning algorithm.
+Analysis of most common customer service challenges encountered by telecommunication company through Natural language processing, and unsupervised machine learning algorithm.
 
 ### Data Source:
 The data was scraped from the official STC-CARE Twitter account.
 ### Data Description:
-|Features |Descriotion|Type
+|Features |Description|Type
 |:-------:|:-------------:|:-------:|
 Screen Name|username of twitter account|object
 Created At|Date and time when tweet was posted |object
